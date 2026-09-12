@@ -132,3 +132,15 @@ This lab demonstrates:
 - Request logging
 - Timeout handling
 - Independent service failure handling
+
+  ## Successful Request Proof
+
+The following screenshot shows both services running successfully:
+
+![Successful request proof](screenshots/successproof.png)
+
+## Independent Failure Proof
+
+The following screenshot shows Service B returning `503 SERVICE UNAVAILABLE` after Service A was stopped:
+
+![Independent failure proof](screenshots/failureproof.png)
