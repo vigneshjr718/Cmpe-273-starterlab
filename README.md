@@ -137,10 +137,10 @@ This lab demonstrates:
 
 The following screenshot shows both services running successfully:
 
-![Successful request proof](screenshots/successproof.png)
+![Successful request proof](https://github.com/vigneshjr718/Cmpe-273-starterlab/blob/main/screenshots/screenshots/screenshots/screenshots/successproof.jpeg)
 
 ## Independent Failure Proof
 
 The following screenshot shows Service B returning `503 SERVICE UNAVAILABLE` after Service A was stopped:
 
-![Independent failure proof](screenshots/failureproof.png)
+![Independent failure proof](https://github.com/vigneshjr718/Cmpe-273-starterlab/blob/main/screenshots/screenshots/screenshots/screenshots/failureproof.jpeg)
