@@ -144,3 +144,12 @@ The following screenshot shows both services running successfully:
 The following screenshot shows Service B returning `503 SERVICE UNAVAILABLE` after Service A was stopped:
 
 ![Independent failure proof](https://github.com/vigneshjr718/Cmpe-273-starterlab/blob/main/screenshots/screenshots/screenshots/screenshots/failureproof.jpeg)
+
+The following screenshot shows both services running with log details: 
+![logofservicea](https://github.com/vigneshjr718/Cmpe-273-starterlab/blob/main/screenshots/screenshots/screenshots/screenshots/logofservicea.jpeg)
+
+![logofserviceb](https://github.com/vigneshjr718/Cmpe-273-starterlab/blob/main/screenshots/screenshots/screenshots/screenshots/logofserviceb.jpeg)
+
+
+
+
