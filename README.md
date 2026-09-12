@@ -1,4 +1,3 @@
-# Cmpe-273-starterlab
 # CMPE 273 — Week 1 Lab 1: Your First Distributed System
 
 ## Python HTTP Track
